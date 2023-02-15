@@ -1,0 +1,31 @@
+{
+  "name": "u2-w3d13-socket.io-be",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndyCotruta/U2-W3D13-Socket.io-BE.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndyCotruta/U2-W3D13-Socket.io-BE/issues"
+  },
+  "homepage": "https://github.com/AndyCotruta/U2-W3D13-Socket.io-BE#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "express-list-endpoints": "^6.0.0",
+    "mongoose": "^6.9.1",
+    "socket.io": "^4.6.0"
+  },
+  "devDependencies": {
+    "dotenv": "^16.0.3",
+    "nodemon": "^2.0.20"
+  }
+}
